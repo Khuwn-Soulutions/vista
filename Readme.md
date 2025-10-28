@@ -9,3 +9,7 @@ The vision is to create a comprehensive UI framework that combines the best aspe
 ## Roadmap
 
 The plan is to start with the web as the first target platform. While expanding to other platforms across mobile (e.g. iOS & Android), desktop (e.g. macOS & Windows), wearables, and beyond in the long term.
+
+## Documentation
+
+See `./docs` for more information.
