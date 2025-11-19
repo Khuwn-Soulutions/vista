@@ -1,4 +1,11 @@
 [package]
 name = "vista"
 version = "0.0.1"
-edition = "conception01"
+edition = "2024"
+
+[dependencies]
+leptos = { version = "0.8.11", features = ["csr", "nightly"] }
+web-sys = { version = "0.3", features = ["console", "Event"] }
+log = "0.4"
+wasm-logger = "0.2"
+console_error_panic_hook = "0.1"
